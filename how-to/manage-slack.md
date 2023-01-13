@@ -2,7 +2,7 @@
 
 We use slack to discuss about the projects and coordinate activities related to them. We follow [the same CoC](https://github.com/onebeyond/admin/issues/4) as in Github.
 
-Right now the slack is use to improve the communication between the maintainers. If you need access please create an issue in this repo
+Right now, slack is used to improve the communication between the maintainers. If you need access, please create an issue in this repo.
 
 ## Channels
 
