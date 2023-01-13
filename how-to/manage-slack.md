@@ -8,13 +8,24 @@ Right now, slack is used to improve the communication between the maintainers. I
 
 - `#00-announcements`: Important news 
 - `#01-general`: General channel great for starting discussions
-- `#03-ask-anything`: Great if you are lost
+- `#02-random`: Social channel with Memes, GIFs...
+- `#03-ask-anything`: AMA channel and great if you are lost too
 - `#04-infra`: The place to notify and track issues with CI, tokens, accesses...
 - `#05-notifications`: Automatic notifications from repositories, etc...
 
-There are other channels that are specifics to projects like `#monaco`, `#systemic`...
+There are other channels that are specifics to projects like:
+- `#monaco`: [Monaco](https://github.com/onebeyond/monaco) 
+- `#systemic`: [Systemic-*](https://github.com/orgs/onebeyond/repositories?q=systemic&type=all) 
+- `#rascal`: [Rascal](https://github.com/onebeyond/rascal)
+- `#confabulous`: [Confabulous-*](https://github.com/orgs/onebeyond/repositories?q=confabulous&type=all)
+- `#cuckoojs`: [cuckoojs](https://github.com/onebeyond/cuckoojs)
+- ...
 
-As well there are some private channels like `#moderation`, `#admins`, etc..
+
+As well there are some private channels like:
+- `#moderation`: Manage CoC violations
+- `#admins`: Admins coordination
+- ...
 
 ## Management
 
