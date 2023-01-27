@@ -8,5 +8,5 @@ This repository is used to coordinate the Open Source Activity and the communica
 
 - [Meeting (including agenda, notes, recordings...)](/meetings)
 - [How to guides](/how-to)
-
+- [Governance](/governance)
 
