@@ -37,8 +37,8 @@ const config = {
         title: 'One Beyond Maintainers',
         logo: {
           alt: 'Logo',
-          src: 'img/logo.png'
-          // srcDark: 'img/logo_dark.png'
+          src: 'img/logo_white.svg',
+          srcDark: 'img/logo_black.svg'
         },
         items: [
           {
