@@ -1,3 +1,5 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/57868e39-0f34-4b2a-a93f-50bb9dfed6ed/deploy-status)](https://app.netlify.com/sites/onebeyond-maintainers/deploys)
+
 # One Beyond Maintainers
 
 One Beyond’s commitment to the open source community encourages an attitude of collaboration, transparency, and flexibility; a philosophy that enables developers across the world to fulfil their potential and create ground-breaking software, as well as giving back to the open source community the same value that we receive from it.
