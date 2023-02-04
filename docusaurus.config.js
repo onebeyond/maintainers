@@ -8,7 +8,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula')
 const config = {
   title: 'One Beyond Maintainers',
   tagline: 'One Beyond’s commitment to the open source community encourages an attitude of collaboration, transparency, and flexibility',
-  url: 'https://maintainers.opensource.one-beyond.com',
+  url: 'https://onebeyond-maintainers.netlify.app',
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'throw',
