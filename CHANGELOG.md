@@ -2,6 +2,21 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [1.0.0](https://github.com/onebeyond/maintainers/v0.0.0...v1.0.0) (2023-02-04)
+
+
+### Features
+
+* improved metadata and added indexes ([8600e2a](https://github.com/onebeyond/maintainers/commit/8600e2a6a273ec939184d588691b1b4904ddb6cd))
+* migrated to docusaurus ([9cec820](https://github.com/onebeyond/maintainers/commit/9cec82024c48b959dd5d4b321d904b1da3b68273))
+* replaced favicon ([3735062](https://github.com/onebeyond/maintainers/commit/37350621a0e603e5103c76de56b2af82d8f45a77))
+* replaced logo ([64fa60c](https://github.com/onebeyond/maintainers/commit/64fa60c884f1e51a56b2e93b5d151e5564309fbe))
+
+
+### Bug Fixes
+
+* added netlify Url for deployments ([3b0ca7f](https://github.com/onebeyond/maintainers/commit/3b0ca7f538149bc3f2577539b825257709387a7a))
+
 ## 0.0.0 (2023-02-03)
 
 
