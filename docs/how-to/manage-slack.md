@@ -1,3 +1,10 @@
+---
+sidebar_position: 1
+id: how-to-manage-slack
+title: Manage Slack
+slug: /how-to/manage-slack
+---
+
 # Slack 
 
 We use slack to discuss about the projects and coordinate activities related to them. We follow [the same CoC](https://github.com/onebeyond/admin/issues/4) as in Github.

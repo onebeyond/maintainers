@@ -1,3 +1,11 @@
+---
+sidebar_position: 2
+id: how-to-manage-github-teams
+title: Manage Teams in Github
+slug: /how-to/manage-github-teams
+---
+
+
 # Team Management
 
 The access level to any repository is managed by teams.

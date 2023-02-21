@@ -1,3 +1,10 @@
+---
+sidebar_position: 3
+id: how-to-streaming-in-youtube
+title: Streaming in Youtube
+slug: /how-to/streaming-in-youtube
+---
+
 # Meeting streaming in Youtube
 
 ## Requirements
