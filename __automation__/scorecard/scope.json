@@ -1,0 +1,60 @@
+{
+  "github.com": {
+    "onebeyond": {
+      "included": [
+        "systemic-knex"
+      ],
+      "excluded": []
+    },
+    "guidesmiths": {
+      "included": [
+        "stashback",
+        "node-madgex",
+        "request-token",
+        "qs3",
+        "worksmith",
+        "whoosh",
+        "worksmith_sftp",
+        "httq",
+        "qsftp",
+        "worksmith_etcd",
+        "worksmith_rascal",
+        "eslint-plugin-imperative",
+        "adblock-plus-crx",
+        "starscream",
+        "block-sequence",
+        "mr.robot",
+        "block-sequence-compliance-tests",
+        "acdc",
+        "eslint-config-imperative",
+        "eslint-config-imperative-es6",
+        "block-sequence-reference",
+        "block-sequence-mysql",
+        "block-sequence-postgres",
+        "block-sequence-redis",
+        "svc-example",
+        "block-sequence-mongo",
+        "release-clerk",
+        "kube-deploy",
+        "groundhog-day",
+        "marv-compliance-tests",
+        "marv-pg-driver",
+        "hath-report-spec",
+        "world-clock",
+        "hath-assert",
+        "marv-mysql-driver",
+        "outstanding",
+        "marv",
+        "refdata",
+        "prerelease-ftw",
+        "json-2-sql",
+        "react-native-uservoice",
+        "react-form-creator",
+        "gs-hygen",
+        "middleware-auth",
+        "dangerjs-wrapper"
+      ],
+      "excluded": []
+    }
+  }
+}
