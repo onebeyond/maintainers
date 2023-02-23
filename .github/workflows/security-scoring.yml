@@ -1,0 +1,33 @@
+name: "OpenSSF Scoring"
+on: 
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:   
+
+permissions:
+  contents: write
+  pull-requests: none 
+  issues: write
+  packages: none
+
+jobs:
+  security-scoring:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - name: OpenSSF Scorecard Monitor
+        uses: UlisesGascon/openssf-scorecard-monitor@v2.0.0-beta1
+        with:
+          scope: __automation__/scorecard/scope.json
+          database: __automation__/scorecard/database.json
+          report: docs/reporting/scorecard.md
+          auto-commit: true
+          auto-push: true
+          generate-issue: true
+          report-tags-enabled: true
+          issue-title: "OpenSSF Scorecard Report Updated!"
+          github-token: ${{ secrets.GITHUB_TOKEN }}
+          max-request-in-parallel: 10
+          discovery-enabled: true
+          # As an example Awesome Org and Myself
+          discovery-orgs: 'onebeyond,guidesmiths'
