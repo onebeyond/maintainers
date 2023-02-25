@@ -16,7 +16,7 @@ jobs:
     steps:
       - uses: actions/checkout@v3
       - name: OpenSSF Scorecard Monitor
-        uses: UlisesGascon/openssf-scorecard-monitor@v2.0.0-beta1
+        uses: UlisesGascon/openssf-scorecard-monitor@v2.0.0-beta2
         with:
           scope: __automation__/scorecard/scope.json
           database: __automation__/scorecard/database.json

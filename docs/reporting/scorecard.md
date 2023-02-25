@@ -1,54 +1,27 @@
-# OpenSSF Scorecard Report
+---
+sidebar_position: 1
+id: scorecard  
+title: "OpenSFF Scorecard"
+slug: /reporting/osff-scorecard
+---
+
+# OSSF Scorecard Report
+
+The Scorecard will evaluate the security of your project based on automated checks related to four scenarios.
+
+- Malicious maintainers
+- Build System Compromises
+- Source Code Compromises
+- Malicious packages
+
+
+**More information**
+- [Official Website](https://securityscorecards.dev/#what-is-openssf-scorecard)
+- [You should use the OpenSSF Scorecard](https://dev.to/ulisesgascon/you-should-use-the-openssf-scorecard-4eh4)
 
 ## Summary
 
-| Repository | Commit | Score | Date | Difference | Report Link |
-| -- | -- | -- | -- | -- | -- |
-| [onebeyond/systemic-knex](https://github.com/onebeyond/systemic-knex) | [c0e887e](https://github.com/onebeyond/systemic-knex/commit/c0e887eb2d27b8bf3f7bca604e8097a5319178d8) | 5.9 | 2023-02-18 | 0 | [Full Report](https://deps.dev/project/github/onebeyond%2Fsystemic-knex) |
-| [guidesmiths/stashback](https://github.com/guidesmiths/stashback) | [9cbce4f](https://github.com/guidesmiths/stashback/commit/9cbce4f53f932a386eb4b6fc35430a14dea128cd) | 3.6 | 2022-11-28 | 0 | [Full Report](https://deps.dev/project/github/guidesmiths%2Fstashback) |
-| [guidesmiths/node-madgex](https://github.com/guidesmiths/node-madgex) | [42511b9](https://github.com/guidesmiths/node-madgex/commit/42511b9783832e2beb343e5c3fd02524a3260cfe) | 4.7 | 2022-11-28 | 0 | [Full Report](https://deps.dev/project/github/guidesmiths%2Fnode-madgex) |
-| [guidesmiths/request-token](https://github.com/guidesmiths/request-token) | [afac68e](https://github.com/guidesmiths/request-token/commit/afac68e3d6d78b1c06f056eb75e4a145af7b70f8) | 4.6 | 2022-11-28 | 0 | [Full Report](https://deps.dev/project/github/guidesmiths%2Frequest-token) |
-| [guidesmiths/qs3](https://github.com/guidesmiths/qs3) | [a1a16f1](https://github.com/guidesmiths/qs3/commit/a1a16f1c45c3833429765ad9d1a001376c90e23a) | 4.6 | 2022-11-28 | 0 | [Full Report](https://deps.dev/project/github/guidesmiths%2Fqs3) |
-| [guidesmiths/worksmith](https://github.com/guidesmiths/worksmith) | [552d553](https://github.com/guidesmiths/worksmith/commit/552d553da88bddde9e55ea83ca5f1b7b756b9326) | 3.7 | 2022-11-28 | 0 | [Full Report](https://deps.dev/project/github/guidesmiths%2Fworksmith) |
-| [guidesmiths/whoosh](https://github.com/guidesmiths/whoosh) | [f092194](https://github.com/guidesmiths/whoosh/commit/f092194d56a722fb3cc8737e633943455c89a1e6) | 3.4 | 2022-11-28 | 0 | [Full Report](https://deps.dev/project/github/guidesmiths%2Fwhoosh) |
-| [guidesmiths/worksmith_sftp](https://github.com/guidesmiths/worksmith_sftp) | [d4cc3db](https://github.com/guidesmiths/worksmith_sftp/commit/d4cc3dbd7f3bee29e618a75356df788817771915) | 4.6 | 2022-11-28 | 0 | [Full Report](https://deps.dev/project/github/guidesmiths%2Fworksmith_sftp) |
-| [guidesmiths/httq](https://github.com/guidesmiths/httq) | [e28a333](https://github.com/guidesmiths/httq/commit/e28a3334003da60fbd25f5b7132847c9e999deba) | 5.3 | 2022-11-28 | 0 | [Full Report](https://deps.dev/project/github/guidesmiths%2Fhttq) |
-| [guidesmiths/qsftp](https://github.com/guidesmiths/qsftp) | [d428191](https://github.com/guidesmiths/qsftp/commit/d4281918129f63ed5c9da4723c71d0aee937c276) | 4.8 | 2022-11-28 | 0 | [Full Report](https://deps.dev/project/github/guidesmiths%2Fqsftp) |
-| [guidesmiths/worksmith_etcd](https://github.com/guidesmiths/worksmith_etcd) | [8263515](https://github.com/guidesmiths/worksmith_etcd/commit/82635156c6ea23271f25d6dd004ebe34affba5b3) | 4.6 | 2022-11-28 | 0 | [Full Report](https://deps.dev/project/github/guidesmiths%2Fworksmith_etcd) |
-| [guidesmiths/worksmith_rascal](https://github.com/guidesmiths/worksmith_rascal) | [0e8e3b1](https://github.com/guidesmiths/worksmith_rascal/commit/0e8e3b17c7e9d2f0b9e5d525e730fa2a2f547a19) | 4.8 | 2022-11-28 | 0 | [Full Report](https://deps.dev/project/github/guidesmiths%2Fworksmith_rascal) |
-| [guidesmiths/eslint-plugin-imperative](https://github.com/guidesmiths/eslint-plugin-imperative) | [ec1501d](https://github.com/guidesmiths/eslint-plugin-imperative/commit/ec1501dd437da39dba7dbc234b6d7d92558514d6) | 4.6 | 2022-11-28 | 0 | [Full Report](https://deps.dev/project/github/guidesmiths%2Feslint-plugin-imperative) |
-| [guidesmiths/adblock-plus-crx](https://github.com/guidesmiths/adblock-plus-crx) | [42332c5](https://github.com/guidesmiths/adblock-plus-crx/commit/42332c58edf486ec6cd7f972656365325afd03b0) | 4.5 | 2022-11-28 | 0 | [Full Report](https://deps.dev/project/github/guidesmiths%2Fadblock-plus-crx) |
-| [guidesmiths/starscream](https://github.com/guidesmiths/starscream) | [696b5f1](https://github.com/guidesmiths/starscream/commit/696b5f1ef9097665a2341d5eb5f5863eb6591558) | 4.6 | 2022-11-28 | 0 | [Full Report](https://deps.dev/project/github/guidesmiths%2Fstarscream) |
-| [guidesmiths/block-sequence](https://github.com/guidesmiths/block-sequence) | [14f8758](https://github.com/guidesmiths/block-sequence/commit/14f87583bd41f254977e818f2f667a8fad5f963f) | 4.7 | 2022-11-28 | 0 | [Full Report](https://deps.dev/project/github/guidesmiths%2Fblock-sequence) |
-| [guidesmiths/mr.robot](https://github.com/guidesmiths/mr.robot) | [a69d4d3](https://github.com/guidesmiths/mr.robot/commit/a69d4d38917dc0704538cdf2936401cb3bc4bac8) | 5 | 2022-11-28 | 0 | [Full Report](https://deps.dev/project/github/guidesmiths%2Fmr.robot) |
-| [guidesmiths/block-sequence-compliance-tests](https://github.com/guidesmiths/block-sequence-compliance-tests) | [d7093d6](https://github.com/guidesmiths/block-sequence-compliance-tests/commit/d7093d678907e604b03074c8a61dd94241f5d738) | 4.6 | 2022-11-28 | 0 | [Full Report](https://deps.dev/project/github/guidesmiths%2Fblock-sequence-compliance-tests) |
-| [guidesmiths/acdc](https://github.com/guidesmiths/acdc) | [05fc7b6](https://github.com/guidesmiths/acdc/commit/05fc7b6a66ecdfa117c62f989ca3cc4a16f2254a) | 4.6 | 2022-11-28 | 0 | [Full Report](https://deps.dev/project/github/guidesmiths%2Facdc) |
-| [guidesmiths/eslint-config-imperative](https://github.com/guidesmiths/eslint-config-imperative) | [ab59197](https://github.com/guidesmiths/eslint-config-imperative/commit/ab59197c7dfcda33fa2033378ba0412a80de3be3) | 4.6 | 2022-11-28 | 0 | [Full Report](https://deps.dev/project/github/guidesmiths%2Feslint-config-imperative) |
-| [guidesmiths/eslint-config-imperative-es6](https://github.com/guidesmiths/eslint-config-imperative-es6) | [38c019c](https://github.com/guidesmiths/eslint-config-imperative-es6/commit/38c019c3712665257b58ce9d81760e08fcf8ead1) | 4.7 | 2022-11-28 | 0 | [Full Report](https://deps.dev/project/github/guidesmiths%2Feslint-config-imperative-es6) |
-| [guidesmiths/block-sequence-reference](https://github.com/guidesmiths/block-sequence-reference) | [6899f72](https://github.com/guidesmiths/block-sequence-reference/commit/6899f7283143c286e9b9b3ee2f4b98b20180d4b7) | 4.6 | 2022-11-28 | 0 | [Full Report](https://deps.dev/project/github/guidesmiths%2Fblock-sequence-reference) |
-| [guidesmiths/block-sequence-mysql](https://github.com/guidesmiths/block-sequence-mysql) | [d89d98a](https://github.com/guidesmiths/block-sequence-mysql/commit/d89d98ad9936d4bee43a4ab975805fbd11ca107d) | 4.6 | 2022-11-28 | 0 | [Full Report](https://deps.dev/project/github/guidesmiths%2Fblock-sequence-mysql) |
-| [guidesmiths/block-sequence-postgres](https://github.com/guidesmiths/block-sequence-postgres) | [4edac4a](https://github.com/guidesmiths/block-sequence-postgres/commit/4edac4a9297f76e43fb233704d39ac4353536fc5) | 4.6 | 2022-11-28 | 0 | [Full Report](https://deps.dev/project/github/guidesmiths%2Fblock-sequence-postgres) |
-| [guidesmiths/block-sequence-redis](https://github.com/guidesmiths/block-sequence-redis) | [9d1e0d2](https://github.com/guidesmiths/block-sequence-redis/commit/9d1e0d2aa10d22af66a93bf8f27fa5d119e8ebb3) | 4.6 | 2022-11-28 | 0 | [Full Report](https://deps.dev/project/github/guidesmiths%2Fblock-sequence-redis) |
-| [guidesmiths/svc-example](https://github.com/guidesmiths/svc-example) | [da592e9](https://github.com/guidesmiths/svc-example/commit/da592e9a6969cedfe6959f788ef215e1a8098703) | 4.4 | 2022-11-28 | 0 | [Full Report](https://deps.dev/project/github/guidesmiths%2Fsvc-example) |
-| [guidesmiths/block-sequence-mongo](https://github.com/guidesmiths/block-sequence-mongo) | [342f87d](https://github.com/guidesmiths/block-sequence-mongo/commit/342f87d441e99be150e035ce09b6dbfaeab8a2df) | 4.6 | 2022-11-28 | 0 | [Full Report](https://deps.dev/project/github/guidesmiths%2Fblock-sequence-mongo) |
-| [guidesmiths/release-clerk](https://github.com/guidesmiths/release-clerk) | [97dd7fb](https://github.com/guidesmiths/release-clerk/commit/97dd7fbb3575149427fe87685a76e9db1b9eeb6b) | 4.6 | 2022-11-28 | 0 | [Full Report](https://deps.dev/project/github/guidesmiths%2Frelease-clerk) |
-| [guidesmiths/kube-deploy](https://github.com/guidesmiths/kube-deploy) | [9f1708b](https://github.com/guidesmiths/kube-deploy/commit/9f1708b3f3c1b0ba99a41b148dc6c051dbf08cdd) | 4.4 | 2022-11-28 | 0 | [Full Report](https://deps.dev/project/github/guidesmiths%2Fkube-deploy) |
-| [guidesmiths/groundhog-day](https://github.com/guidesmiths/groundhog-day) | [a980162](https://github.com/guidesmiths/groundhog-day/commit/a980162f468304cb8820e0c5bcf79c062279d9d3) | 4.6 | 2022-11-28 | 0 | [Full Report](https://deps.dev/project/github/guidesmiths%2Fgroundhog-day) |
-| [guidesmiths/marv-compliance-tests](https://github.com/guidesmiths/marv-compliance-tests) | [4d57106](https://github.com/guidesmiths/marv-compliance-tests/commit/4d571066a939f1fb93373fe79068f0dcc57e987e) | 4 | 2022-11-28 | 0 | [Full Report](https://deps.dev/project/github/guidesmiths%2Fmarv-compliance-tests) |
-| [guidesmiths/marv-pg-driver](https://github.com/guidesmiths/marv-pg-driver) | [caebdda](https://github.com/guidesmiths/marv-pg-driver/commit/caebddabf506f1635f5489c88f914a18a44a3f5d) | 3.4 | 2022-11-28 | 0 | [Full Report](https://deps.dev/project/github/guidesmiths%2Fmarv-pg-driver) |
-| [guidesmiths/hath-report-spec](https://github.com/guidesmiths/hath-report-spec) | [a9622ce](https://github.com/guidesmiths/hath-report-spec/commit/a9622ce23351996a9c811a27da1dd407194c780c) | 4.6 | 2022-11-28 | 0 | [Full Report](https://deps.dev/project/github/guidesmiths%2Fhath-report-spec) |
-| [guidesmiths/world-clock](https://github.com/guidesmiths/world-clock) | [95423cc](https://github.com/guidesmiths/world-clock/commit/95423ccabbb1c116b1b2f1d7b374de83c8977634) | 4.6 | 2022-11-28 | 0 | [Full Report](https://deps.dev/project/github/guidesmiths%2Fworld-clock) |
-| [guidesmiths/hath-assert](https://github.com/guidesmiths/hath-assert) | [9a4c055](https://github.com/guidesmiths/hath-assert/commit/9a4c055fc5b3726253d0d97c76ee25cfb4ae1db0) | 4.6 | 2022-11-28 | 0 | [Full Report](https://deps.dev/project/github/guidesmiths%2Fhath-assert) |
-| [guidesmiths/marv-mysql-driver](https://github.com/guidesmiths/marv-mysql-driver) | [f4d9614](https://github.com/guidesmiths/marv-mysql-driver/commit/f4d96140bfb3e43527a2ba8a24ae0ac42f4373e0) | 4.2 | 2022-11-28 | 0 | [Full Report](https://deps.dev/project/github/guidesmiths%2Fmarv-mysql-driver) |
-| [guidesmiths/outstanding](https://github.com/guidesmiths/outstanding) | [95f343c](https://github.com/guidesmiths/outstanding/commit/95f343c02b5ee6a77d58218027181f980a5d64d4) | 4.6 | 2022-11-28 | 0 | [Full Report](https://deps.dev/project/github/guidesmiths%2Foutstanding) |
-| [guidesmiths/marv](https://github.com/guidesmiths/marv) | [42102f0](https://github.com/guidesmiths/marv/commit/42102f07fd3a1110b93b77e65cc1be52f0337125) | 3.8 | 2022-11-28 | 0 | [Full Report](https://deps.dev/project/github/guidesmiths%2Fmarv) |
-| [guidesmiths/refdata](https://github.com/guidesmiths/refdata) | [3616774](https://github.com/guidesmiths/refdata/commit/36167744cffd878fb1c2b071f6b48f86e31fc9a2) | 5.1 | 2022-11-28 | 0 | [Full Report](https://deps.dev/project/github/guidesmiths%2Frefdata) |
-| [guidesmiths/prerelease-ftw](https://github.com/guidesmiths/prerelease-ftw) | [94e7a68](https://github.com/guidesmiths/prerelease-ftw/commit/94e7a68b421b4645444ecfbe77d48552740c4eb4) | 4.6 | 2022-11-28 | 0 | [Full Report](https://deps.dev/project/github/guidesmiths%2Fprerelease-ftw) |
-| [guidesmiths/json-2-sql](https://github.com/guidesmiths/json-2-sql) | [73f964d](https://github.com/guidesmiths/json-2-sql/commit/73f964d9d61882db60686e03c795d6cb12951fe9) | 4.7 | 2022-11-28 | 0 | [Full Report](https://deps.dev/project/github/guidesmiths%2Fjson-2-sql) |
-| [guidesmiths/react-native-uservoice](https://github.com/guidesmiths/react-native-uservoice) | [e4dcf91](https://github.com/guidesmiths/react-native-uservoice/commit/e4dcf91b7d7b9e532dbf199beeaf37b367c731ad) | 4.6 | 2022-11-28 | 0 | [Full Report](https://deps.dev/project/github/guidesmiths%2Freact-native-uservoice) |
-| [guidesmiths/react-form-creator](https://github.com/guidesmiths/react-form-creator) | [44a22c7](https://github.com/guidesmiths/react-form-creator/commit/44a22c72f2584ed220dc5fa0f0bea3bee48feeac) | 4.6 | 2022-11-28 | 0 | [Full Report](https://deps.dev/project/github/guidesmiths%2Freact-form-creator) |
-| [guidesmiths/gs-hygen](https://github.com/guidesmiths/gs-hygen) | [50692aa](https://github.com/guidesmiths/gs-hygen/commit/50692aaca467dc08e1b0cc4774cdbb7120978792) | 4 | 2022-11-28 | 0 | [Full Report](https://deps.dev/project/github/guidesmiths%2Fgs-hygen) |
-| [guidesmiths/middleware-auth](https://github.com/guidesmiths/middleware-auth) | [e80f017](https://github.com/guidesmiths/middleware-auth/commit/e80f0176ee81d856b0ffd3d79c55c95aaefda5e8) | 5 | 2022-11-28 | 0 | [Full Report](https://deps.dev/project/github/guidesmiths%2Fmiddleware-auth) |
-| [guidesmiths/dangerjs-wrapper](https://github.com/guidesmiths/dangerjs-wrapper) | [92f0225](https://github.com/guidesmiths/dangerjs-wrapper/commit/92f0225f4444f56982040635e1650ae938ec6cd9) | 3.9 | 2022-11-28 | 0 | [Full Report](https://deps.dev/project/github/guidesmiths%2Fdangerjs-wrapper) |
+<!-- OPENSSF-SCORECARD-MONITOR:START -->
+This will be removed once the report will be executed for the first time
+<!-- OPENSSF-SCORECARD-MONITOR:END -->
 
-_Report generated by [UlisesGascon/openssf-scorecard-monitor](https://github.com/UlisesGascon/openssf-scorecard-monitor)._
