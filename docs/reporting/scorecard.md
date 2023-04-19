@@ -1,8 +1,8 @@
 ---
 sidebar_position: 1
 id: scorecard  
-title: "OpenSFF Scorecard"
-slug: /reporting/osff-scorecard
+title: "OpenSSF Scorecard"
+slug: /reporting/ossf-scorecard
 ---
 
 # OSSF Scorecard Report
