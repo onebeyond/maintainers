@@ -23,12 +23,12 @@
     "deps:upgrade": "npx npm-check-updates -- -u"
   },
   "dependencies": {
-    "@commitlint/cli": "17.5.1",
-    "@commitlint/config-conventional": "17.4.4",
+    "@commitlint/cli": "17.6.1",
+    "@commitlint/config-conventional": "17.6.1",
     "@docusaurus/core": "2.4.0",
     "@docusaurus/preset-classic": "2.4.0",
     "@mdx-js/react": "1.6.21",
-    "@snyk/protect": "1.1140.0",
+    "@snyk/protect": "1.1143.0",
     "clsx": "1.2.1",
     "husky": "8.0.3",
     "jest": "29.5.0",
