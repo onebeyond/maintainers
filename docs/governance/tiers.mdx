@@ -47,6 +47,35 @@ The projects that are growing.
 - The project has a roadmap
 - The project is following all the guidelines from the org (code, automations, metafiles...)
 
+### Actions:
+
+- [ ] Create a valid README
+- [ ] Create a valid CONTRIBUTING.md
+- [ ] Create a valid CODE_OF_CONDUCT.md or reuse/link to the org one
+- [ ] Create a valid LICENSE or reuse/link to the org one
+- [ ] Build a clear roadmap and keep it up to date
+- [ ] Ensure that the project is correctly setup in github (labels, milestones, projects, permissions, branch protections, etc...)
+
+**If the project is a library**
+- [ ] Add the project to code climate
+- [ ] Add the expected project badges (code coverage, code quality, etc...)
+- [ ] Create a valid SECURITY.md or reuse/link to the org one
+- [ ] Create a valid CHANGELOG.md and keep it up to date
+- [ ] Create a valid CODEOWNERS file and keep it up to date
+- [ ] Ensure CI/CD with Github Actions (deployments, tests, linting, formatting, coverage, vulnerability, etc...)
+- [ ] Ensure quality tools (linting, formatting, coverage, vulnerability, etc...) are passing
+- [ ] Use a Semantic Automated Testing Strategy (SATS) to ensure the quality of the project
+- [ ] Add OpenSSF Scorecard reporting and keep it up to date with a high score (over 7.0)
+- [ ] Add automations for issues/PRs and templates
+- [ ] Keep your dependencies up to date with Dependabot (or similar)
+- [ ] Ensure that the project publishing the package via CI and not from your local devices
+- [ ] Ensure that the library is capable of running in a CI/CD environment against a Matrix of version from the supported platforms (Node.js, .NET...)
+
+**If the project has infrastructure**
+- [ ] Ensure that the Infra/maintainers team is aware of the project and the project is using the right resources
+
+
+
 ## Tier 2: Maintenance
 
 The consolidated projects that our community relays on but does not require any active development in terms of business logic.
@@ -55,6 +84,10 @@ The consolidated projects that our community relays on but does not require any 
 
 - The project is done in terms of business logic but is actively used by the community, so the project Maintenance tasks are mostly updating dependencies and fixing minor bugs.
 - The project has completed the roadmap
+
+### Actions:
+
+_same as Tier 1, but focusing on dependencies and bugs rather than roadmap or long term strategy_
 
 
 ## Tier 3: End Of Life
@@ -66,6 +99,19 @@ The projects that are not actively used by the community.
 - The project is considered completed and is not actively used by the community.
 - The project has not done any release in the last 3 years.
 
+### Actions:
+
+- [ ] Archive the project in Github
+- [ ] Close all the pending issues
+- [ ] Close all the pending PRs
+- [ ] Add a message in the README.md to inform the users that the project is not maintained anymore
+
+**If the project is a library**
+- [ ] Add a message in the README.md to inform the users that the project is not maintained anymore and suggest an alternative
+- [ ] Add a deprecation notice in the package manager (npm, maven, etc...)
+
+**If the project has infrastructure**
+- [ ] Remove/reuse the infra resource (server, domain, etc...)
 
 
 
