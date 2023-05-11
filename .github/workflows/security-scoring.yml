@@ -16,7 +16,7 @@ jobs:
     steps:
       - uses: actions/checkout@v3
       - name: OpenSSF Scorecard Monitor
-        uses: UlisesGascon/openssf-scorecard-monitor@v2.0.0-beta3
+        uses: UlisesGascon/openssf-scorecard-monitor@v2.0.0-beta5
         with:
           scope: __automation__/scorecard/scope.json
           database: __automation__/scorecard/database.json
@@ -31,5 +31,4 @@ jobs:
           github-token: ${{ secrets.GITHUB_TOKEN }}
           max-request-in-parallel: 10
           discovery-enabled: true
-          # As an example Awesome Org and Myself
           discovery-orgs: 'onebeyond,guidesmiths'
