@@ -1,5 +1,4 @@
 ---
-sidebar_position: 2
 id: how-to-manage-github-teams
 title: Manage Teams in Github
 slug: /how-to/manage-github-teams
