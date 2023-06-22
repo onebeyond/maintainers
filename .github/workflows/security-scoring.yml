@@ -20,7 +20,7 @@ jobs:
         with:
           scope: __automation__/scorecard/scope.json
           database: __automation__/scorecard/database.json
-          report: docs/reporting/scorecard.md
+          report: docs/06-reporting/01-scorecard.md
           auto-commit: true
           auto-push: true
           generate-issue: true

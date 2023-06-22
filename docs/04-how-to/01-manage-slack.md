@@ -1,5 +1,4 @@
 ---
-sidebar_position: 1
 id: how-to-manage-slack
 title: Manage Slack
 slug: /how-to/manage-slack

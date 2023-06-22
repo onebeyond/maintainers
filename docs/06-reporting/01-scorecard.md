@@ -1,5 +1,4 @@
 ---
-sidebar_position: 1
 id: scorecard  
 title: "OpenSSF Scorecard"
 slug: /reporting/ossf-scorecard
