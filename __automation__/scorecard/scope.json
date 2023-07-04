@@ -2,7 +2,8 @@
   "github.com": {
     "onebeyond": {
       "included": [
-        "systemic-knex"
+        "systemic-knex",
+        "license-checker"
       ],
       "excluded": []
     },

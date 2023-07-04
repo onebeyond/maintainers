@@ -19,6 +19,14 @@
           "date": "2023-04-20",
           "commit": "94acfff8e674e3757f3e2e50752cf450e988b664"
         }
+      },
+      "license-checker": {
+        "previous": [],
+        "current": {
+          "score": 6.7,
+          "date": "2023-07-03",
+          "commit": "5c68f897f5fd00a13b2ea21ccaa0bf1afcad33ee"
+        }
       }
     },
     "guidesmiths": {
