@@ -858,11 +858,16 @@
             "score": 4.5,
             "date": "2023-04-17",
             "commit": "da592e9a6969cedfe6959f788ef215e1a8098703"
+          },
+          {
+            "score": 3,
+            "date": "2023-04-24",
+            "commit": "da592e9a6969cedfe6959f788ef215e1a8098703"
           }
         ],
         "current": {
-          "score": 3,
-          "date": "2023-04-24",
+          "score": 3.8,
+          "date": "2023-07-03",
           "commit": "da592e9a6969cedfe6959f788ef215e1a8098703"
         }
       },
