@@ -1525,11 +1525,16 @@
             "score": 3.5,
             "date": "2023-06-19",
             "commit": "50692aaca467dc08e1b0cc4774cdbb7120978792"
+          },
+          {
+            "score": 3.4,
+            "date": "2023-06-26",
+            "commit": "50692aaca467dc08e1b0cc4774cdbb7120978792"
           }
         ],
         "current": {
-          "score": 3.4,
-          "date": "2023-06-26",
+          "score": 3,
+          "date": "2023-08-14",
           "commit": "50692aaca467dc08e1b0cc4774cdbb7120978792"
         }
       },
