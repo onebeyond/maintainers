@@ -902,11 +902,16 @@
             "score": 3,
             "date": "2023-04-24",
             "commit": "9f1708b3f3c1b0ba99a41b148dc6c051dbf08cdd"
+          },
+          {
+            "score": 2.9,
+            "date": "2023-07-17",
+            "commit": "9f1708b3f3c1b0ba99a41b148dc6c051dbf08cdd"
           }
         ],
         "current": {
-          "score": 2.9,
-          "date": "2023-07-17",
+          "score": 3,
+          "date": "2023-09-04",
           "commit": "9f1708b3f3c1b0ba99a41b148dc6c051dbf08cdd"
         }
       },
