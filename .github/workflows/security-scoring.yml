@@ -27,7 +27,7 @@ jobs:
           report-tags-enabled: true
           issue-title: "OpenSSF Scorecard Report Updated!"
           issue-assignees: "inigomarquinez,ulisesGascon"
-          issue-labels: "admin-agenda"
+          issue-labels: "maintainers-agenda"
           github-token: ${{ secrets.GITHUB_TOKEN }}
           max-request-in-parallel: 10
           discovery-enabled: true
