@@ -21,11 +21,17 @@
         }
       },
       "license-checker": {
-        "previous": [],
+        "previous": [
+          {
+            "score": 6.7,
+            "date": "2023-07-03",
+            "commit": "5c68f897f5fd00a13b2ea21ccaa0bf1afcad33ee"
+          }
+        ],
         "current": {
-          "score": 6.7,
-          "date": "2023-07-03",
-          "commit": "5c68f897f5fd00a13b2ea21ccaa0bf1afcad33ee"
+          "score": 6.4,
+          "date": "2023-09-13",
+          "commit": "aece706c6718cd2278f09fbebb3f536b2657caa9"
         }
       }
     },
