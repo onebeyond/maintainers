@@ -11,19 +11,16 @@ We use tiers to classify the projects in our organization. This classification i
 
 **How this classification will affect the maintainers?**
 
-First of all, the criteria used per tier are not strict, the final decision is made by us as a group and not only by technical criteria. As well some projects are hard to classify like awesome-*
+First of all, the criteria used per tier are not strict, the final decision is made by us as a group and not only by technical criteria. As well some projects are hard to classify like `awesome-*`.
 
 - **Tier 0** will require a lot of support from the `@onebeyond/maintainers` team in order to consolidate the project in our Open Source culture, IT resources, guidance...
 - **Tier 1** will require active monitoring from the `@onebeyond/maintainers` and the code owners for security patching, code review priority...
 - **Tier 2** will require some work from the code owners per year to keep up with the dependencies, etc...
 - **Tier 3** will require some work from the `@onebeyond/maintainers` to deprecate the libraries, remove IT resources and archive the projects.
 
-**When and who decided the project tier?**
+**When and who decides the project tier?**
 
 The tier is decided by the `@onebeyond/maintainers` team and the code owners. The tier is reviewed every year and the tier can be changed at any time.
-
-
-
 
 ## Tier 0: Incubate
 
@@ -33,7 +30,7 @@ The starting point for new projects.
 
 - The project was created in the last 12 months
 - The project didn't release v1.0.0 yet
-- The project is not yet following all the guidelines from the org (code, automations, metafiles...)
+- The project is not yet following all the guidelines from the org (code, automation, metafiles...)
 
 
 ## Tier 1: Active
@@ -44,40 +41,37 @@ The projects that are growing.
 
 - The project is under active development including business logic evolution (at least one release in the last year).
 - The project has a roadmap
-- The project is following all the guidelines from the org (code, automations, metafiles...)
+- The project is following all the guidelines from the org (code, automation, metafiles...)
 
 ### Actions:
 
 - [ ] Create a valid README
-- [ ] Create a valid CONTRIBUTING.md
-- [ ] Create a valid CODE_OF_CONDUCT.md or reuse/link to the org one
-- [ ] Create a valid LICENSE or reuse/link to the org one
+- [ ] Create a valid LICENSE
 - [ ] Build a clear roadmap and keep it up to date
-- [ ] Ensure that the project is correctly setup in github (labels, milestones, projects, permissions, branch protections, etc...)
+- [ ] Ensure that the project is correctly set up in GitHub (labels, milestones, projects, permissions, branch protection rules, etc...)
 
 **If the project is a library**
 - [ ] Add the project to code climate
 - [ ] Add the expected project badges (code coverage, code quality, etc...)
 - [ ] Create a valid SECURITY.md or reuse/link to the org one
-- [ ] Create a valid CHANGELOG.md and keep it up to date
 - [ ] Create a valid CODEOWNERS file and keep it up to date
-- [ ] Ensure CI/CD with Github Actions (deployments, tests, linting, formatting, coverage, vulnerability, etc...)
+- [ ] Ensure CI/CD with GitHub Actions (deployments, tests, linting, formatting, coverage, vulnerability, etc...)
 - [ ] Ensure quality tools (linting, formatting, coverage, vulnerability, etc...) are passing
 - [ ] Use a Semantic Automated Testing Strategy (SATS) to ensure the quality of the project
 - [ ] Add OpenSSF Scorecard reporting and keep it up to date with a high score (over 7.0)
-- [ ] Add automations for issues/PRs and templates
+- [ ] Add OpenSSF Test Coverage reporting and keep it up to date with a high coverage (over 70%)
+- [ ] Add automation for issues/PRs and templates
 - [ ] Keep your dependencies up to date with Dependabot (or similar)
-- [ ] Ensure that the project publishing the package via CI and not from your local devices
+- [ ] Ensure that the project publishes the package via CI and not from your local devices
 - [ ] Ensure that the library is capable of running in a CI/CD environment against a Matrix of version from the supported platforms (Node.js, .NET...)
 
 **If the project has infrastructure**
 - [ ] Ensure that the Infra/maintainers team is aware of the project and the project is using the right resources
 
 
-
 ## Tier 2: Maintenance
 
-The consolidated projects that our community relays on but do not require any active development in terms of business logic.
+The consolidated projects that our community relies on but do not require any active development in terms of business logic.
 
 ### Criteria:
 
@@ -86,7 +80,7 @@ The consolidated projects that our community relays on but do not require any ac
 
 ### Actions:
 
-_same as Tier 1, but focusing on dependencies and bugs rather than roadmap or long term strategy_
+_same as Tier 1, but focusing on dependencies and bugs rather than roadmap or long-term strategy_
 
 
 ## Tier 3: End Of Life
@@ -100,7 +94,7 @@ The projects that are not actively used by the community.
 
 ### Actions:
 
-- [ ] Archive the project in Github
+- [ ] Archive the project in GitHub
 - [ ] Close all the pending issues
 - [ ] Close all the pending PRs
 - [ ] Add a message in the README.md to inform the users that the project is not maintained anymore
