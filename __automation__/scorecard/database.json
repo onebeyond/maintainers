@@ -31,11 +31,16 @@
             "score": 6.4,
             "date": "2023-09-13",
             "commit": "aece706c6718cd2278f09fbebb3f536b2657caa9"
+          },
+          {
+            "score": 6.3,
+            "date": "2023-09-30",
+            "commit": "06a514b79c64068afe7c365847ab8abae01465e3"
           }
         ],
         "current": {
-          "score": 6.3,
-          "date": "2023-09-30",
+          "score": 6.2,
+          "date": "2023-10-07",
           "commit": "06a514b79c64068afe7c365847ab8abae01465e3"
         }
       }
