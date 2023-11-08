@@ -21,8 +21,8 @@ jobs:
           scope: __automation__/scorecard/scope.json
           database: __automation__/scorecard/database.json
           report: docs/06-reporting/01-scorecard.md
-          auto-commit: true
-          auto-push: true
+          auto-commit: false
+          auto-push: false
           generate-issue: true
           report-tags-enabled: true
           issue-title: "OpenSSF Scorecard Report Updated!"
