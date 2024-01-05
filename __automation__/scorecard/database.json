@@ -1601,12 +1601,17 @@
             "score": 3.2,
             "date": "2023-10-02",
             "commit": "caebddabf506f1635f5489c88f914a18a44a3f5d"
+          },
+          {
+            "score": 3.1,
+            "date": "2023-10-16",
+            "commit": "caebddabf506f1635f5489c88f914a18a44a3f5d"
           }
         ],
         "current": {
-          "score": 3.1,
-          "date": "2023-10-16",
-          "commit": "caebddabf506f1635f5489c88f914a18a44a3f5d"
+          "score": 3.3,
+          "date": "2024-01-01",
+          "commit": "fcf2ee3ad2fcd7a3d0900e4d8ec7ad64c66f0e8b"
         }
       },
       "hath-report-spec": {
