@@ -3,7 +3,8 @@
     "onebeyond": {
       "included": [
         "systemic-knex",
-        "license-checker"
+        "license-checker",
+        "react-form-builder"
       ],
       "excluded": []
     },
