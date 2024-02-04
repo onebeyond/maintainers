@@ -65,10 +65,16 @@
         }
       },
       "react-form-builder": {
-        "previous": [],
+        "previous": [
+          {
+            "score": 5.6,
+            "date": "2024-01-31T18:52:18Z",
+            "commit": "560772deb26528540a92ec1e9bab90e5485e170d"
+          }
+        ],
         "current": {
-          "score": 5.6,
-          "date": "2024-01-31T18:52:18Z",
+          "score": 6,
+          "date": "2024-02-03T19:45:47Z",
           "commit": "560772deb26528540a92ec1e9bab90e5485e170d"
         }
       }
