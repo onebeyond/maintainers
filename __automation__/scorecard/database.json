@@ -75,12 +75,17 @@
             "score": 6,
             "date": "2024-02-03T19:45:47Z",
             "commit": "560772deb26528540a92ec1e9bab90e5485e170d"
+          },
+          {
+            "score": 6.1,
+            "date": "2024-02-16T10:28:44Z",
+            "commit": "1499d1964de3d819ac713d71f7e8ada0fa6df71e"
           }
         ],
         "current": {
-          "score": 6.1,
-          "date": "2024-02-16T10:28:44Z",
-          "commit": "1499d1964de3d819ac713d71f7e8ada0fa6df71e"
+          "score": 6.4,
+          "date": "2024-02-29T11:43:24Z",
+          "commit": "e6815dbfc6810cafb51320ba28eef427cf72885d"
         }
       }
     },
