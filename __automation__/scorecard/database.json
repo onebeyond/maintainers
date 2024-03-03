@@ -80,12 +80,17 @@
             "score": 6.1,
             "date": "2024-02-16T10:28:44Z",
             "commit": "1499d1964de3d819ac713d71f7e8ada0fa6df71e"
+          },
+          {
+            "score": 6.4,
+            "date": "2024-02-29T11:43:24Z",
+            "commit": "e6815dbfc6810cafb51320ba28eef427cf72885d"
           }
         ],
         "current": {
-          "score": 6.4,
-          "date": "2024-02-29T11:43:24Z",
-          "commit": "e6815dbfc6810cafb51320ba28eef427cf72885d"
+          "score": 6.7,
+          "date": "2024-03-02T19:48:53Z",
+          "commit": "d17831c02686360756d791b42a94e0ec39733082"
         }
       }
     },
