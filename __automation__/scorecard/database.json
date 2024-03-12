@@ -92,6 +92,14 @@
           "date": "2024-03-02T19:48:53Z",
           "commit": "d17831c02686360756d791b42a94e0ec39733082"
         }
+      },
+      "agnostic-cms-harmonizer": {
+        "previous": [],
+        "current": {
+          "score": 7,
+          "date": "2024-03-11T10:52:15Z",
+          "commit": "16d68c37b8b48f98cb37f02c68e5aa8b098fe489"
+        }
       }
     },
     "guidesmiths": {

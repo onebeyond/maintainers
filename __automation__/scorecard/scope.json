@@ -4,7 +4,8 @@
       "included": [
         "systemic-knex",
         "license-checker",
-        "react-form-builder"
+        "react-form-builder",
+        "agnostic-cms-harmonizer"
       ],
       "excluded": []
     },
