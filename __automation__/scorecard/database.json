@@ -94,11 +94,17 @@
         }
       },
       "agnostic-cms-harmonizer": {
-        "previous": [],
+        "previous": [
+          {
+            "score": 7,
+            "date": "2024-03-11T10:52:15Z",
+            "commit": "16d68c37b8b48f98cb37f02c68e5aa8b098fe489"
+          }
+        ],
         "current": {
-          "score": 7,
-          "date": "2024-03-11T10:52:15Z",
-          "commit": "16d68c37b8b48f98cb37f02c68e5aa8b098fe489"
+          "score": 7.1,
+          "date": "2024-03-14T17:06:42Z",
+          "commit": "171cf6270b5c1d3b2d43fb51ee791aa56d363899"
         }
       }
     },
