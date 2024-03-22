@@ -85,12 +85,17 @@
             "score": 6.4,
             "date": "2024-02-29T11:43:24Z",
             "commit": "e6815dbfc6810cafb51320ba28eef427cf72885d"
+          },
+          {
+            "score": 6.7,
+            "date": "2024-03-02T19:48:53Z",
+            "commit": "d17831c02686360756d791b42a94e0ec39733082"
           }
         ],
         "current": {
-          "score": 6.7,
-          "date": "2024-03-02T19:48:53Z",
-          "commit": "d17831c02686360756d791b42a94e0ec39733082"
+          "score": 7.7,
+          "date": "2024-03-21T16:51:22Z",
+          "commit": "feb3a74464148dc132724704f6c74517063edaf4"
         }
       },
       "agnostic-cms-harmonizer": {
