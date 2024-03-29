@@ -404,11 +404,16 @@
             "score": 2.7,
             "date": "2023-10-02",
             "commit": "9cbce4f53f932a386eb4b6fc35430a14dea128cd"
+          },
+          {
+            "score": 2.6,
+            "date": "2023-10-16",
+            "commit": "9cbce4f53f932a386eb4b6fc35430a14dea128cd"
           }
         ],
         "current": {
-          "score": 2.6,
-          "date": "2023-10-16",
+          "score": 2.5,
+          "date": "2024-03-25",
           "commit": "9cbce4f53f932a386eb4b6fc35430a14dea128cd"
         }
       },
@@ -1654,11 +1659,16 @@
             "score": 3.1,
             "date": "2023-10-16",
             "commit": "caebddabf506f1635f5489c88f914a18a44a3f5d"
+          },
+          {
+            "score": 3.3,
+            "date": "2024-01-01",
+            "commit": "fcf2ee3ad2fcd7a3d0900e4d8ec7ad64c66f0e8b"
           }
         ],
         "current": {
-          "score": 3.3,
-          "date": "2024-01-01",
+          "score": 3.2,
+          "date": "2024-03-25",
           "commit": "fcf2ee3ad2fcd7a3d0900e4d8ec7ad64c66f0e8b"
         }
       },
