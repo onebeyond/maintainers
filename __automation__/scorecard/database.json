@@ -1385,11 +1385,16 @@
             "score": 3.2,
             "date": "2023-10-02",
             "commit": "f4d96140bfb3e43527a2ba8a24ae0ac42f4373e0"
+          },
+          {
+            "score": 3.1,
+            "date": "2023-10-16",
+            "commit": "f4d96140bfb3e43527a2ba8a24ae0ac42f4373e0"
           }
         ],
         "current": {
-          "score": 3.1,
-          "date": "2023-10-16",
+          "score": 2.8,
+          "date": "2024-04-15",
           "commit": "f4d96140bfb3e43527a2ba8a24ae0ac42f4373e0"
         }
       },
